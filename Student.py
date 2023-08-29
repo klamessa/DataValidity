@@ -27,4 +27,4 @@ similar_students = find_similar_students(data)
 # Print the names of similar students
 print("Students with more than 3 similar criteria:")
 for student_name in similar_students:
-    print(student_name)
+    print(student_data)
